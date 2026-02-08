@@ -48,6 +48,10 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  transform: scale(0.9);
+}
+
 h2 {
   font-size: 25px;
   font-weight: 800;
